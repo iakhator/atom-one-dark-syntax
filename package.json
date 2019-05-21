@@ -1,8 +1,8 @@
 {
-  "name": "one-dark-syntax",
+  "name": "atom-one-dark-syntax",
   "theme": "syntax",
   "version": "1.10.0",
-  "description": "A dark syntax theme",
+  "description": "A one dark syntax theme",
   "keywords": [
     "dark",
     "blue",
